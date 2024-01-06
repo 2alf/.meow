@@ -9,16 +9,16 @@ vars:
 `let x := "John Doe"`
 
 print:
-`log:"Hello, World!";`
+`log "Hello, World!"`
 ```
 let x := 10
 log x
 ```
 func ( WIP ):
 ```
-func add(a, b) {
+func add(a, b):
     :3 a + b;
-};
+end
 ```
 
 fibonacci in .meow:
