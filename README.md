@@ -21,7 +21,7 @@ func add(a, b) {
 };
 ```
 
-fibbonaci in .meow:
+fibonacci in .meow:
 ```
 let n := 10
 let a := 0
