@@ -101,5 +101,28 @@ Output:
   *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
 ```
 
+## reversing a string:
+Source:
+```
+let input_str := "hello"
+let reversed_str := ""
+
+let i := len(input_str) - 1
+while i >= 0:
+    let reversed_str := reversed_str + input_str[i]
+    let i := i - 1
+end
+
+log reversed_str
+
+```
+Output:
+```
+  o
+  ol
+  oll
+  olle
+  olleh
+```
 
 More to come.
